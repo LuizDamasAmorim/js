@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Roboto", serif;
+}
+
+input[type="button"]{
+    background-color: white;
+    border: 1px solid black;
+    padding: 7px 15px;
+    border-radius: 20px;
+}
+
+input[type="button"]:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+

@@ -6,6 +6,13 @@ A linguagem javascript e case sensitive (faz diferença entre letras maiúsculas
     Dica; Usar "textos" e 'importações'
 ________________________________________________________________________________________________________________________ 
 
+Podemos executar o código JS no HTML de 2 formas:
+
+1) Diretamente usando a tag <script> </script>
+
+2) Criando um documento js e linkando com o HTML usando a tag <script src="script.js"></script>
+________________________________________________________________________________________________________________________ 
+
 NODE - Plataforma que permite executar o JS fora do navegador de internet
 
 comandos NODE:
