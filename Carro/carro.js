@@ -15,12 +15,7 @@ class Carro {
 
     criarCarro() {
         console.log("-------------------------------------------------------")
-        console.log("        _______  ")
-        console.log("       //  ||\ \ ")
-        console.log(" _____//___||_\ \___ ")
-        console.log(" )  _          _    \ ")
-        console.log(" |_/ \________/ \___|")
-        console.log("___\_/________\_/____ ")
+        console.log("🚗")
         console.log(`Ano do carro: ${this.ano}`)
         console.log(`Cor do carro: ${this.cor}`)
     }
@@ -48,13 +43,7 @@ class Aviao extends Carro {
     // Ações
     criarAviao() {
         console.log("-------------------------------------------------------")
-        console.log(`                          ___________`)
-        console.log(`                               |`)
-        console.log(`                          _   _|_   _ `)
-        console.log(`                         (_)-/   \-(_)`)
-        console.log(`  _                         /\___/\                         _   `)
-        console.log(` (_)_______________________( ( . ) )_______________________(_)  `)
-        console.log(`                            \_____/`)
+        console.log(`✈️`)
         console.log(`Envergadura: ${this.envergadura}`)
     }
 
