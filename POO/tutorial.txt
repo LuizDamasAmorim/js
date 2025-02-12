@@ -8,9 +8,9 @@ ________________________________________________________________________________
 
 Podemos executar o código JS no HTML de 2 formas:
 
-1) Diretamente usando a tag <script> </script>
+1- Diretamente usando a tag <script> </script>
 
-2) Criando um documento js e linkando com o HTML usando a tag <script src="script.js"></script>
+2- Criando um documento js e linkando com o HTML usando a tag <script src="script.js"></script>
 ________________________________________________________________________________________________________________________ 
 
 NODE - Plataforma que permite executar o JS fora do navegador de internet
@@ -45,3 +45,29 @@ Usar crase (Forma moderna e segura)
 `texto ${variavel}`  ($ simbulo de chamar variavel)
 
 _________________________________________________________________________________________________________________________
+FRAMEWORK
+
+Um framework é um conjunto de ferramentas, bibliotecas e regras
+que facilite o desenvolvimento de software, fornecendo uma estrutura
+pronta para o programador. O framework define um "esqueleto" do projeto,
+onde você preenche com o seu código, seguindo padrões já estabelecidos.
+Isso economiza tempo, evita a repetição de código e garante boas práticas.
+Um framework é como encontrar um hamburguer em uma rede de fast food.
+Sem um framework, você teria que moer a carne, assar o pão, preparar os
+ingredientes e criar a sua própria receita do zero.
+
+
+Passo 1: Acessar a documentação do FRAMEWORK:
+https://getbootstrap.com/docs/5.3/getting-started/introduction/#quick-start
+
+Passo 2: Criar os links para o CSS e JS, conforme orientações da documentação
+
+Passo 3: Criar inicialmente uma classe chamada container  
+
+_________________________________________________________________________________________________________________________
+Array ou vetor e uma estrutura de dados indexada
+Array e uma alocação de variável, com a diferença que ele pode armazenar vários dados
+O array trabalha com indices, o indice sempre inicia em 0.
+Usos do array:
+    Simplificar o código
+    Estrutura de dados, manipular os dados - bancos de dados
